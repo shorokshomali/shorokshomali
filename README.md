@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shorok Shomali
 - 👀 I’m interested in micro-controllers, FPGA, ASIC...
-- 🌱 Electrical and Elentronics Engineer recently graduated from Ariel University 
+- 🌱 Electrical and Electronics Engineer recently graduated from Ariel University 
 - 💞️ I’m looking to collaborate on projects that contains micro-controllers programmed in C/C++, and projects that contains FPGA programmed in VHDL, Verilog/SV
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/shorokshomali/)
